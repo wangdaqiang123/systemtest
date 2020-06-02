@@ -11,6 +11,9 @@ mysql -h 127.0.0.1 -P 4000 -u root -p
  前端测试： 
  
 https://docs.qq.com/sheet/DRlVFcUtGYWxCd3Jo?tab=BB08J2&c=H51A0AH0
+前端日报： 
+https://docs.qq.com/sheet/DU3VPSGJGUEx6UVlk?tab=BB08J2
+
 
 测试日报： 
 
