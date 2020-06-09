@@ -21,3 +21,9 @@ https://docs.qq.com/sheet/DWEdaQmp4QWFtZW1E?tdsourcetag=s_pctim_aiomsg&ADUIN=335
 
 monitor 
 https://zhuanlan.zhihu.com/p/91215371
+
+selenium 
+
+
+https://www.bilibili.com/video/BV1Z4411o7TA?p=8
+
