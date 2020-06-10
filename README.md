@@ -31,4 +31,8 @@ https://www.bilibili.com/video/BV1Z4411o7TA?p=8
 
 
 https://github.com/yanchunhuo/AutomationTest
+# sweetest 
+
+https://github.com/tonglei100/sweetest
+
 
