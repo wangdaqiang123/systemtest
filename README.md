@@ -27,3 +27,8 @@ selenium
 
 https://www.bilibili.com/video/BV1Z4411o7TA?p=8
 
+# auto test 
+
+
+https://github.com/yanchunhuo/AutomationTest
+
