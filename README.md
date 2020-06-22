@@ -50,5 +50,8 @@ http://10.10.104.31:3000/                      - tidb + docker
  http://10.10.104.64:30000/?orgId=1     - k8s
  
  https://github.com/brendangregg/FlameGraph
+ 
+ https://github.com/cypress-io/cypress
+ 
 
 
