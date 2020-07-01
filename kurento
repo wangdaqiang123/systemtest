@@ -14,4 +14,5 @@ https://meetrix.io/blog/webrtc/kurento/creating-an-opencv-filter-for-kurento-med
 
 kurento-media-server  --gst-debug-level=9
 
+https://docs.openvidu.io/en/2.14.0/deployment/deploying-on-premises/
 
